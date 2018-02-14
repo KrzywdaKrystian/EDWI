@@ -1,0 +1,1120 @@
+1 http://www.kis.p.lodz.pl
+1  http://pduch.kis.p.lodz.pl/index.html
+1 http://www.kis.p.lodz.pl/staff.130.html
+1 http://www.p.lodz.pl/pol/mapa/index.jsp
+1  http://pduch.kis.p.lodz.pl/EDwI.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1 http://ranisz.kis.p.lodz.pl/MD/materialy/
+1 http://pp.iis.p.lodz.pl
+1 http://pp.iis.p.lodz.pl
+1 http://pp.iis.p.lodz.pl
+1  http://pduch.kis.p.lodz.pl/arduino.html
+1  http://pduch.kis.p.lodz.pl/arduino.html
+1  http://pduch.kis.p.lodz.pl/arduino.html
+1  http://pduch.kis.p.lodz.pl/PSRW.html
+1  http://pduch.kis.p.lodz.pl/PSRW.html
+1  http://pduch.kis.p.lodz.pl/PSRW.html
+1  http://pduch.kis.p.lodz.pl/SMPD.html
+1  http://pduch.kis.p.lodz.pl/PZ.html
+1  http://pduch.kis.p.lodz.pl/TematyPrac.html
+1 http://pp.iis.p.lodz.pl
+1  http://pduch.kis.p.lodz.pl/PSRW.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/SMPD.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/EDwI.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/EDwI.html
+1  http://pduch.kis.p.lodz.pl/SMPD.html
+1  http://pduch.kis.p.lodz.pl/LM.html
+1  http://pduch.kis.p.lodz.pl/SMPD.html
+1  http://pduch.kis.p.lodz.pl/SMPD.html
+1 http://ranisz.kis.p.lodz.pl/MD/materialy/
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://jgoclaw.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 5.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 6.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 7.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 8.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 9.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.130.html
+2 http://pduch.kis.p.lodz.pl/ http://www.p.lodz.pl/pol/mapa/index.jsp
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/ http://ranisz.kis.p.lodz.pl/MD/materialy/
+2 http://pduch.kis.p.lodz.pl/ http://pp.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://pp.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://pp.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/arduino.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/arduino.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/arduino.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/PSRW.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/PSRW.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/PSRW.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/PZ.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/TematyPrac.html
+2 http://pduch.kis.p.lodz.pl/ http://pp.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/PSRW.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD.html
+2 http://pduch.kis.p.lodz.pl/ http://ranisz.kis.p.lodz.pl/MD/materialy/
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://kslot.iis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD.zip
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD - LAB.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/100 leaves plant species.zip
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://kslot.iis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD.zip
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD - LAB.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/100 leaves plant species.zip
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.weeia.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/conferences.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/research.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/teaching.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/training.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/podyplomowe.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/staff.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/about_kis.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/news.html?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/new_program.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/conferences.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/research.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/teaching.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/training.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/podyplomowe.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/staff.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/about_kis.html?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/news.html?lang=en
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/main_page.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/mapa.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/?lang=pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/?lang=en
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/masters_courses.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/schedule.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/godziny_przyjec.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/prace_dyplomowe.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/mapa.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/conferences.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/research.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/teaching.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/training.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/podyplomowe.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/staff.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/about_kis.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/news.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/.html
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/,0.html
+2 http://pduch.kis.p.lodz.pl/ http://pduch.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.kis.p.lodz.pl/mapa.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://kslot.iis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD.zip
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD - LAB.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/100 leaves plant species.zip
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://jgoclaw.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 5.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 6.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 7.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 8.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 9.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-SO2_Wprowadzenie.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/SO2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://kslot.iis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD.zip
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD - LAB.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/100 leaves plant species.zip
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-SO2_Wprowadzenie.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/SO2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-SO2_Wprowadzenie.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/PP2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/Arduino/SO2-Projekt.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://jgoclaw.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 5.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 6.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 7.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 8.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/EDwI/EDwI - zad. 9.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://kslot.iis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD.zip
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/SMPD - LAB.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/SMPD/100 leaves plant species.zip
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/index.html
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/staff.10.html
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Egzamin.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM_Wyniki_Cwiczenia.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Wyklad.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Zadania - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM - cwiczenia/LM - Teoria - Analiza Skladniowa.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 1 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie_1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 2 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 3.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 3 v. 4.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 1.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 4 v. 2.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pduch.kis.p.lodz.pl/LM/Zadanie 5.pdf
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=login&sectok=
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=recent
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:start
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:informacje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:laboratorium
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:projekty
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:narzedzia
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:typy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:zadaniadodatkowe
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/2012-09-12-11-22-16
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/sprawdzian-wiedzy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=testy:hidden
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ https://pixabay.com/pl/fotel-%C5%9Bwi%C4%99ta-zabawki-pluszaki-2526977/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania#zadanie_111_-_termin_3_grudnia_2359
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://tjaworski.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://pduch.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=revisions
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=backlink
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=login&sectok=
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=recent
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:start
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:informacje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:laboratorium
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:projekty
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:narzedzia
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:typy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:zadaniadodatkowe
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/2012-09-12-11-22-16
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/sprawdzian-wiedzy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=testy:hidden
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ https://pixabay.com/pl/fotel-%C5%9Bwi%C4%99ta-zabawki-pluszaki-2526977/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania#zadanie_111_-_termin_3_grudnia_2359
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://tjaworski.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://pduch.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=revisions
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=backlink
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=login&sectok=
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=recent
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:start
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:informacje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:laboratorium
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:projekty
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:narzedzia
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:typy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:zadaniadodatkowe
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/2012-09-12-11-22-16
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/sprawdzian-wiedzy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=testy:hidden
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ https://pixabay.com/pl/fotel-%C5%9Bwi%C4%99ta-zabawki-pluszaki-2526977/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania#zadanie_111_-_termin_3_grudnia_2359
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://tjaworski.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://pduch.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=revisions
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=backlink
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=login&sectok=
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=recent
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:start
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:informacje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:laboratorium
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:projekty
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:narzedzia
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:typy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:teoria:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wewy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_if
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:instrukcja_case
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:petle
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_1d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:tablice_2d
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:funkcje
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:rekurencja
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:sortowanie
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:zadaniadodatkowe
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/2012-09-12-11-22-16
+2 http://pduch.kis.p.lodz.pl/ http://lidia-js.kis.p.lodz.pl/Joomla/PP1/index.php/sprawdzian-wiedzy
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=testy:hidden
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/ https://pixabay.com/pl/fotel-%C5%9Bwi%C4%99ta-zabawki-pluszaki-2526977/
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=pp:pp1:zadania:wyzwania#zadanie_111_-_termin_3_grudnia_2359
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:errata
+2 http://pduch.kis.p.lodz.pl/ https://hw.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://tjaworski.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://pduch.iis.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=revisions
+2 http://pduch.kis.p.lodz.pl/  http://pp.iis.p.lodz.pl//doku.php?id=public:aktualnosci&do=backlink
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://edu.p.lodz.pl/login
+2 http://pduch.kis.p.lodz.pl/ https://poczta.p.lodz.pl/login
+2 http://pduch.kis.p.lodz.pl/ https://webdziekanat.p.lodz.pl/login
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/course/view.php?id=4
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl/mod/page/view.php?id=139
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/newsletter
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//sitemap
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/kontakt
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//en
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//cn
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//fr
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//ru
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//ua
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//rss.xml
+2 http://pduch.kis.p.lodz.pl/ http://politechnikalodzka.ssdip.bip.gov.pl/dane-teleadresowe/dane-teleadresowe.html
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/nasze-sukcesy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wladze
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/struktura-uczelni
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nauka-movie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/wiedza-co-mowia
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/historia
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zeszyty-historyczne-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zeszyty-historyczne-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/muzeum-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kalendarium-muzeum-pracowni-historycznej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zakres-dzialania
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Wydawnictwa
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/historia-uczelni-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pl-liczbach
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wydzialy-jednostki-naukowe
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/jednostki-pozawydzialowe
+2 http://pduch.kis.p.lodz.pl/ http://zu.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/promocja
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/politechnika-lodzka-w-rankingu-perspektyw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/wydarzenia-uczelni-foto
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/prezentacje-uczelni
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/system-identyfikacji-wizualnej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Wydawnictwa-promocyjne-Politechniki-Lodzkiej-0
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/film-promocyjny-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/poteguj-mozliwosci
+2 http://pduch.kis.p.lodz.pl/ http://newspl.platontv.pl/
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/drzwi-zawsze-otwarte
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt-promocja
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/informacje-dla-prasy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/informacje-dla-prasy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/pl-mediach
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/biuro-prasowe
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wydarzenia-kulturalne-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/muzyka-na-politechnice-historia-powstania
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/koncerty
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/archiwum-koncertow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/czwartkowe-forum-kultury
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/galeria-biblio-art
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/galeria-politechnika
+2 http://pduch.kis.p.lodz.pl/ http://wipos.p.lodz.pl/galeria
+2 http://pduch.kis.p.lodz.pl/ http://www.galeriapodnapieciem.asp.lodz.pl 
+2 http://pduch.kis.p.lodz.pl/ http://bg.p.lodz.pl/przedsionek-literacki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-biblioteka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-biblioteka
+2 http://pduch.kis.p.lodz.pl/ http://bg.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.wydawnictwa.p.lodz.pl/index.do
+2 http://pduch.kis.p.lodz.pl/ http://cj.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ck.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://cmf.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://fundacja.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lud
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lud
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Lodzki-Uniwersytet-Dzieciecy-dla-7-latkow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Lodzki-Uniwersytet-Dzieciecy-dla-8-12-latkow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Lodzki-Uniwersytet-Dzieciecy-dla-absolwentow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lud-dla-nauczycieli
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/miniphanomenta
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wolontariat-junior
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/najczesciej-zadawane-pytania
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zdjecia-wykladow-warsztatow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/Filmy-LUD
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/rekrutacja-1
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt-lud
+2 http://pduch.kis.p.lodz.pl/ http://www.liceum.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/uniwersytet-trzeciego-wieku-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/regulamin-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zajecia-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/plan-wykladow-rok-akademicki-201516
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zajecia-dodatkowe-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/rekrutacja-nowych-sluchaczy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/mapa-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt-utw
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/praca
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/praca
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/praca-dla-naukowca
+2 http://pduch.kis.p.lodz.pl/ http://zp.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt
+2 http://pduch.kis.p.lodz.pl/ http://www.rekrutacja.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/komunikaty-aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/komunikaty-aktualnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/regulamin-studiow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/podzial-roku-akademickiego
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/komunikaty-prorektora-ds-edukacji
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/oferta-ksztalcenia
+2 http://pduch.kis.p.lodz.pl/ http://issuu.com/dzialpromocji/docs/informatorpl
+2 http://pduch.kis.p.lodz.pl/ http://www.programy.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/akredytacje
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akredytacje-miedzynarodowe
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/studia-podyplomowe
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/kursy
+2 http://pduch.kis.p.lodz.pl/ http://samorzad.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://dokt.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studia-doktoranckie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studia-doktoranckie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/dokumenty-dla-doktorantow
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/studia-iii-stopnia
+2 http://pduch.kis.p.lodz.pl/ http://bon.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/oplaty-za-uslugi-edukacyjne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/umowy-ze-studentami
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/badania-wstepne-okresowe-studenci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/pomoc-materialna-dla-studentow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/pomoc-materialna-dla-studentow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/pomoc-materialna-dla-doktorantow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/stypendium-ministra
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/kontakt-pomoc-materialna
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/kredyty-studenckie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studia-praktyki-staze-za-granica
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/ubezpieczenie-zdrowotne
+2 http://pduch.kis.p.lodz.pl/ http://fundacja.p.lodz.pl/?p=1566
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/organizacje-studenckie-0
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studenckie-kola-naukowe-politechnice-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-centrumsportu
+2 http://pduch.kis.p.lodz.pl/ http://biurokarier.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/mostech
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/sekcja-dyplomow
+2 http://pduch.kis.p.lodz.pl/ http://webdziekanat.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://erasmus.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/osiedle-akademickie-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/administracja-osiedla-akademickiego-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/pokoje-hotelowe
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/cenniki-osiedle
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/sala-widowiskowa
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/stolowka-studencka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/przychodnie-lekarskie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pracownicy
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/course/view.php?id=29
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/mod/page/view.php?id=1345
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pracownicy-druzl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Strategia-HR-dla-naukowcow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Polityka-Rozwoju-Zasobow-Ludzkich-Politechnice-Lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzialanie-1-Wdrozenie-dobrych-praktyk-podczas-rekrutacji-pracownikow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzialanie-2-Wspieranie-mobilnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzialanie-3-Promowanie-upowszechnianie-wynikow-badan-naukowych
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzialanie-4-Doradztwo-zawodowe-dla-uczestnikow-studiow-doktoranckich
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzialanie-5-Specjalistyczne-szkolenia-obszarze-komercjalizacji-transferu-wiedzy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/rankingi-certyfikaty-zestawienia
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akty-prawne-druzl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pracownicy-druzl
+2 http://pduch.kis.p.lodz.pl/ http://ck.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://bg.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/course/view.php?id=34
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/course/view.php?id=33
+2 http://pduch.kis.p.lodz.pl/ https://pracownicy.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.znp.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://solidarnosc.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/klubseniora
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/informacje-programowe
+2 http://pduch.kis.p.lodz.pl/ http://www.zeglarski.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/absolwenci
+2 http://pduch.kis.p.lodz.pl/ http://www.swpl.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://biurokarier.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/studia-iii-stopnia
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/studia-podyplomowe
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/kursy
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/szkolenia
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/stypendia-zagraniczne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/europejski-obszar-szkolnictwa-wyzszego-proces-bolonski
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/europejski-obszar-szkolnictwa-wyzszego-proces-bolonski
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/krajowe-ramy-kwalifikacji
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/cel-katalogu-informacyjnego
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/panstwowa-komisja-akredytacyjna
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/panstwowa-komisja-akredytacyjna
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/komisja-akredytacyjna-uczelni-tech
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akredytacje-miedzynarodowe-ksztalcenie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wewnetrzny-system-zapewnienia-jakosci-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wszjk-pl-cel-systemu
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wszjk-pl-struktura-systemu
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/organizacja-funkcjonowania-wszjk
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zadania-kompetencje-osob-komorek-funkcjonujacych-ramach-wszjk-wpl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Praktyki-staze-zagraniczne
+2 http://pduch.kis.p.lodz.pl/ http://erasmus.p.lodz.pl/praktyki/zasady
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/praktyki-iaeste
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zagraniczne-praktyki-wymienne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Inne-oferty
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Nauka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-nauka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/glowne-obszary-badawcze-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akty-prawne-dotyczace-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akty-prawne-dotyczace-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Rozporzadzenia
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zoom-na-nauke
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Informacje-projektach-NCN-NCBiR
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Informacje-projektach-NCN-NCBiR
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Programy-ministra-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Pozabudzetowe-finasowanie-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pozabudzetowe-finansowanie-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Kategoryzacja
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akty-prawne-nauka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/akty-prawne-nauka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/uprawnienia-do-nadawania-stopni-naukowych
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/tytuly-profesora-nauka
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Dzien-promocji
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nagrody-jm-rektora-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Festiwal-Nauki-Techniki-Sztuki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/wlasny-fundusz-stypendialny
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/doktoraty-honoris-causa
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/Konferencje
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/dzial-nauki
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wspolpraca
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-zagranica
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-zagranica
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/struktura-cwm
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/oferty-stypendialne-stazowe-inne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wyjazdy-dwz
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wyjazdy-indywidualne-studentow-politechniki-lodzkiej-poza-programem-erasmus
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/podanie-zgode-na-wyjazd-zagraniczny
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zagraniczne-wyjazdy-sluzbowe-pracownikow-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/rozliczenie-zaliczki-dewizowej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/tabela-diet
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/przyjazdy-gosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/organizacje-miedzynarodowe
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/umowy-wspolpracy
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/umowy-miedzyuczelniane
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/umowy-wydzialowe
+2 http://pduch.kis.p.lodz.pl/ http://erasmus.p.lodz.pl/studia/uczelnie-partnerskie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/umowy-podwojnym-dyplomie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/biuro-projektow-politechniki-lodzkiej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-biuro-projektow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/biuro-projektow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/horyzont-2020
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/horyzont-2020
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/fundusze-europejskie-na-lata-2014-2020
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/inne-krajowe-zagraniczne-zrodla-finansowania-projektow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pic-number
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/wybrane-informacje-dokumenty
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/pl-programach-miedzynarodowych
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/7-program-ramowy-ue
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/horizon-2020
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt-biuro-projektow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-transfer-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/centrum-wspolpracy-gospodarka-innowacji-transferu-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/aktualnosci-transfer-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/centrum-wspolpracy-gospodarka-innowacji-transferu-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/dzial-transferu-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/zespol-sekcji-transferu-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/publikacje-transfer-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/iso-90012008
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/sekcja-ochrony-wlasnosci-intelektualnej
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wydzialowi-brokerzy-innowacji
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/inkubator-innowacyjnosci
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/lista/inkubator-innowacyjnosci-ogloszenia
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/inkubator-innowacyjnosci-o-projekcie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/inkubator-innowacyjnosci-regulamin-uczestnictwa
+2 http://pduch.kis.p.lodz.pl/ http://www.labnet.biotechmed.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.innowacjedlabiznesu.com
+2 http://pduch.kis.p.lodz.pl/ http://dzialtransferu.p.lodz.pl/panel/formularz.php
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/wydawnictwa-transfer-technologii
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/kontakt-transfer-technologii
+2 http://pduch.kis.p.lodz.pl/ http://www.ctt.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.p.lodz.pl/isi
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/dzien-z-inzynieria-produkcji 
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/lista/wiedza-co-mowia 
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/nauka-movie 
+2 http://pduch.kis.p.lodz.pl/ http://www.blog.p.lodz.pl 
+2 http://pduch.kis.p.lodz.pl/ https://zatokasportu.lodz.pl/pl 
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/dzien-z-inzynieria-produkcji
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/lista/wiedza-co-mowia
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/nauka-movie
+2 http://pduch.kis.p.lodz.pl/ http://www.blog.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ https://zatokasportu.lodz.pl/pl
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/liceum-politechniki-lodzkiej-najlepsze-regionie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/liceum-politechniki-lodzkiej-najlepsze-regionie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/liceum-politechniki-lodzkiej-najlepsze-regionie
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/nowatorskie-metody-ksztalcenia-doktorantow-na-lodzkich-uczelniach
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nowatorskie-metody-ksztalcenia-doktorantow-na-lodzkich-uczelniach
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nowatorskie-metody-ksztalcenia-doktorantow-na-lodzkich-uczelniach
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/studenci-pl-pokaza-swoj-nowy-superekonomiczny-bolid
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studenci-pl-pokaza-swoj-nowy-superekonomiczny-bolid
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/studenci-pl-pokaza-swoj-nowy-superekonomiczny-bolid
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/czy-sledziona-moze-poczuc-kolczyk-pepku-wiedza-co-mowia-od-13
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/czy-sledziona-moze-poczuc-kolczyk-pepku-wiedza-co-mowia-od-13
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/czy-sledziona-moze-poczuc-kolczyk-pepku-wiedza-co-mowia-od-13
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/nauka-movie-druku-3d-inz-karolina-przybyszewska
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nauka-movie-druku-3d-inz-karolina-przybyszewska
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/nauka-movie-druku-3d-inz-karolina-przybyszewska
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/jubileuszowa-wystawa-galeria-biblio-art-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/jubileuszowa-wystawa-galeria-biblio-art-pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/jubileuszowa-wystawa-galeria-biblio-art-pl
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/najwieksza-scianka-wspinaczkowa-zatoce-sportu-pl-wkrotce-bedzie-gotowa
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/najwieksza-scianka-wspinaczkowa-zatoce-sportu-pl-wkrotce-bedzie-gotowa
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/najwieksza-scianka-wspinaczkowa-zatoce-sportu-pl-wkrotce-bedzie-gotowa
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/xii-edycja-stypendiow-naukowych-marszalka-wojewodztwa-lodzkiego
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/xii-edycja-stypendiow-naukowych-marszalka-wojewodztwa-lodzkiego
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/xii-edycja-stypendiow-naukowych-marszalka-wojewodztwa-lodzkiego
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/ciekawe-liczby-wiedza-co-mowia-odc-12
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/ciekawe-liczby-wiedza-co-mowia-odc-12
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/ciekawe-liczby-wiedza-co-mowia-odc-12
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/granty-erc-wsparcie-dla-naukowcow
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/granty-erc-wsparcie-dla-naukowcow
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/praktyczne-programy-ksztalcenia-finansowane-przez-ncbr-studia-dualne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/praktyczne-programy-ksztalcenia-finansowane-przez-ncbr-studia-dualne
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/praktyczne-programy-ksztalcenia-finansowane-przez-ncbr-studia-dualne
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/ruszyly-konkursy-etiuda-6-sonatina-2-uwertura-2
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/ruszyly-konkursy-etiuda-6-sonatina-2-uwertura-2
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/ruszyly-konkursy-etiuda-6-sonatina-2-uwertura-2
+2 http://pduch.kis.p.lodz.pl/ http://www.p.lodz.pl/pl/lista/zycie-uczelni
+2 http://pduch.kis.p.lodz.pl/ http://zu.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/oferta-dla-szkol
+2 http://pduch.kis.p.lodz.pl/ http://rekrutacja.p.lodz.pl/pl/oferta-dla-szkol
+2 http://pduch.kis.p.lodz.pl/ http://www.mechaniczny.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.mechaniczny.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.iim.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ioitbm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.imp.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://pojazdy.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kwm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kdm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://abm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.k17.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.weeia.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.weeia.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://matel.p.lodz.pl/wee/i12/
+2 http://pduch.kis.p.lodz.pl/ http://www.automatyka.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.imsi.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.i15.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.eletel.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kis.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.dmcs.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kae.p.lodz.pl/start.php?show/page/1//
+2 http://pduch.kis.p.lodz.pl/ http://www.dsod.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.chemia.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.chemia.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ichoie.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.chorg.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.mitr.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.pb.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kfm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.style.p.lodz.pl/index.php
+2 http://pduch.kis.p.lodz.pl/ http://www.style.p.lodz.pl/index.php
+2 http://pduch.kis.p.lodz.pl/ http://www.k41.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.katdziew.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.k48.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://kmt.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.iat.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://snack.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://snack.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.snack.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://snack.p.lodz.pl/ibtnew/
+2 http://pduch.kis.p.lodz.pl/ http://www.snack.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.snack.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://bais.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://bais.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://bais.p.lodz.pl/index.php/i35
+2 http://pduch.kis.p.lodz.pl/ http://kmm.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://kfb-lx.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.kmk.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.bais.p.lodz.pl/index.php/historia-k65
+2 http://pduch.kis.p.lodz.pl/ http://www.bais.p.lodz.pl/index.php/kontakt-k66
+2 http://pduch.kis.p.lodz.pl/ http://www.bais.p.lodz.pl/index.php/historia-i612
+2 http://pduch.kis.p.lodz.pl/ http://ftims.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ftims.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ics.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.im.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.fizyka.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/jednostki/katedra-zarzadzania/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/jednostki/katedra-zarzadzania-produkcja-i-logistyki/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/jednostki/katedra-integracji-europejskiej-i-marketingu-miedzynarodowego/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/jednostki/katedra-systemow-zarzadzania-i-innowacji/
+2 http://pduch.kis.p.lodz.pl/ http://woiz.p.lodz.pl/jednostki/instytut-nauk-spolecznych-i-zarzadzania-technologiami/
+2 http://pduch.kis.p.lodz.pl/ http://inpap.p.lodz.pl//
+2 http://pduch.kis.p.lodz.pl/ http://wipos.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://wipos.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.wipos.p.lodz.pl/index.php?id=39&id_category=9
+2 http://pduch.kis.p.lodz.pl/ http://www.wipos.p.lodz.pl/index.php?id=39&id_category=11
+2 http://pduch.kis.p.lodz.pl/ http://www.wipos.p.lodz.pl/index.php?id=39&id_category=12
+2 http://pduch.kis.p.lodz.pl/ http://www.wipos.p.lodz.pl/index.php?id=39&id_category=13
+2 http://pduch.kis.p.lodz.pl/ http://www.wipos.p.lodz.pl/index.php?id=39&id_category=16
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl
+2 http://pduch.kis.p.lodz.pl/ http://www.ife.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ife.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ife.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.cti.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ids.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.ids.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ids.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/liceum-politechniki-lodzkiej-najlepsze-regionie
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//pl/doktoranci-studenci-pl-na-liscie-stypendystow-mnisw
+2 http://pduch.kis.p.lodz.pl/ http://www.youtube.com/watch?v=66nnbk18nmA
+2 http://pduch.kis.p.lodz.pl/ http://p.lodz.pl/mapa-kampusu
+2 http://pduch.kis.p.lodz.pl/ http://www.wydawnictwa.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/lista/praca
+2 http://pduch.kis.p.lodz.pl/ http://adm.edu.p.lodz.pl/mod/page/view.php?id=1377
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/lista/zycie-uczelni-1
+2 http://pduch.kis.p.lodz.pl/ http://zak.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://newspl.platontv.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/lista/wydarzenia-uczelni-foto
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/Strategia-HR-dla-naukowcow
+2 http://pduch.kis.p.lodz.pl/ http://www.lumen.edu.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/pl/centrum-jezykowe-pl-wyroznione
+2 http://pduch.kis.p.lodz.pl/ https://zatokasportu.lodz.pl/pl
+2 http://pduch.kis.p.lodz.pl/ http://erasmus.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.ictcluster.pl
+2 http://pduch.kis.p.lodz.pl/ http://edu.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://cybra.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.euraxess.eu
+2 http://pduch.kis.p.lodz.pl/ http://uml.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://poloko.pl
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl/newsletter
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl/sitemap
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl/kontakt
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.krput.edu.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.krasp.org.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.nauka.gov.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.pan.pl
+2 http://pduch.kis.p.lodz.pl/ http://www.fnp.org.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ncbir.pl/
+2 http://pduch.kis.p.lodz.pl/ http://www.ncn.gov.pl/
+2 http://pduch.kis.p.lodz.pl/ http://bg.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://repozytorium.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://cybra.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/biuroprasowe
+2 http://pduch.kis.p.lodz.pl/ http://biurokarier.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://bon.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ http://cj.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ http://ck.p.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/centrumsportu
+2 http://pduch.kis.p.lodz.pl/ http://www.cti.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/lud
+2 http://pduch.kis.p.lodz.pl/ http://www.liceum.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/utw
+2 http://pduch.kis.p.lodz.pl/ http://zp.p.lodz.pl/
+2 http://pduch.kis.p.lodz.pl/ https://www.p.lodz.pl/Strategia-HR-dla-naukowcow
+2 http://pduch.kis.p.lodz.pl/ http://zatokasportu.lodz.pl
+2 http://pduch.kis.p.lodz.pl/ https://www.facebook.com/Politechnika.Lodzka
+2 http://pduch.kis.p.lodz.pl/ https://www.youtube.com/channel/UCbBnxpxg1DbSrIBwvebJghg
+2 http://pduch.kis.p.lodz.pl/ https://www.instagram.com/Politechnika_Lodzka/
+2 http://pduch.kis.p.lodz.pl/ https://twitter.com/p_lodz_pl
+2 http://pduch.kis.p.lodz.pl/ http://www.researchgate.net/institution/Lodz_University_of_Technology
+2 http://pduch.kis.p.lodz.pl/ https://www.linkedin.com/edu/school?id=15971&trk=edu-cp-title
+2 http://pduch.kis.p.lodz.pl/  http://www.p.lodz.pl//sites/default/files/pliki/polityka-prywatnosci.pdf

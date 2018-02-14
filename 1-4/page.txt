@@ -1,0 +1,99 @@
+piotr duch
+pduch@kisplodzplkontakt
+
+ dr inż piotr duch
+
+ email pduch@kisplodzpl 
+
+ telefon +48 42 631 27 56
+
+ uwaga w dniu 29112017 godziny przyjęć są odwołane 
+
+ godziny przyjęć środa 16  18  budynek c7 wejście przez "stary kis"
+
+dydaktyka
+
+ zajęcia 
+
+ zajęcia prowadzone w semestrze zimowym roku akademickiego 20172018
+
+  eksploracja danych w internecie
+  lingwistyka matematyczna
+  matematyka dyskretna
+  podstawy programowania 1
+  programowanie arduino
+  programowanie systemów rzeczywistości wirtualnej
+  statystyczne metody przetwarzania danych
+  projekt zespołowy
+
+ 
+
+ prace dyplomowe 
+
+ propozycje tematów prac dyplomowych  inżynierskich i magisterskich
+
+ 
+
+ plan zajęć 
+
+  poniedziałek
+  wtorek
+  środa
+  czwartek
+  piątek
+  sobota
+  niedziela
+
+1615  1800sala cti 404 podstawy programowania 1
+laboratorium  grupa 1i05 
+
+1815  2000sala cti 404 programowanie systemów rzeczywistości wirtualnej
+laboratorium  grupa 2i 1 
+
+1015  1200sala cti 406 lingwistyka matematyczna
+ćwiczenia  grupa 1i s2 ksk tygodnie 1  8 
+
+1015  1200sala cti 406 lingwistyka matematyczna
+laboratorium  grupa 1i s2 java tygodnie 9  15 
+
+1215  1400sala cti 406 statystyczne metody przetwarzania danych
+laboratorium  grupa 1i s2 java tygodnie 1  8 
+
+1215  1400sala cti 406 lingwistyka matematyczna
+laboratorium  grupa 1i s2 ksk tygodnie 9  15 
+
+1415  1600sala cti 407 eksploracja danych w internecie
+laboratorium  grupa 3i 
+
+1615  1800sala cti 406 statystyczne metody przetwarzania danych
+laboratorium  grupa 1i s2 isbd tygodnie x1 
+
+1815  2000sala cti 406 statystyczne metody przetwarzania danych
+laboratorium  grupa 1i s2 ksk tygodnie x1 
+
+1515  1700sala cti 407 lingwistyka matematyczna
+laboratorium  grupa nz2 1d00 isbd ksk zjazdy 1  5 
+
+1515  1700sala cti 407 lingwistyka matematyczna
+laboratorium  grupa nz2 1d00 sripm zjazdy 6  10 
+
+1815  2000sala e106 lingwistyka matematyczna
+ćwiczenia  grupa nz2 1d00  zjazdy 2  6 
+
+815  1000sala cti 406 eksploracja danych w internecie
+laboratorium  grupa nz2 3d60 zjazdy 6  10 
+
+1015  1200sala cti 405 statystyczne metody przetwarzania danych
+laboratorium  grupa nz2 java zjazdy 1  5 
+
+1015  1200sala cti 405 lingwistyka matematyczna
+laboratorium  grupa nz2 java zjazdy 6  10 
+
+1215  1400sala cti 405 statystyczne metody przetwarzania danych
+laboratorium  grupa nz2 ksk isbd zjazdy 1  5 
+
+1215  1400sala cti 405 statystyczne metody przetwarzania danych
+laboratorium  grupa nz2 sripm zjazdy 6  10 
+
+1715  2000sala cti 405 matematyka dyskretna
+ćwiczenia  grupa 3d1 d2 d3 zjazdy 6  10

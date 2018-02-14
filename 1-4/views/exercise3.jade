@@ -1,0 +1,58 @@
+extends layout
+
+block content
+    h1 Zadanie 3
+    a(href="/") wróć
+
+    h4 1. Przygotowanie danych
+    p Dane wejściowe dla zaimplementowanych algorytmów należy uzyskać za pomocą programu zaimplementowanego na pierwszych zajęciach. W pliku na stronie są również większe kawałki tekstu. Należy je poddać obróbce przez te same procedury usuwania znaczników, znaków przestankowych, itp.
+    h4 2. Opis zadania
+    p Podobieństwo między dokumentami tekstowymi (np. webowymi) mierzy się zwykle jako cosinus kąta między wektorami reprezentującymi te dokumenty. Wektory te mają tyle współrzędnych, ile jest słów w słowniku, tj. ile jest unikalnych słów w całej kolekcji dokumentów. Jedną z najprostszych metod przypisywania wag do „termów” (tj. słów) w obrębie wektora jest term count model, gdzie waga danego słowa to liczba jego wystąpień w danym dokumencie podzielona przez łączną liczbę słów w dokumencie.
+    p Przykład (b. prosty): mamy 3 dokumenty:<br>
+        Doc #1: this is a horse<br>
+        Doc #2: she rode a black horse<br>
+        Doc #3: a dog, a dog and two horses<br>
+
+    p Słownik: a, and, black, dog, horse, horses, is, rode, she, this, two
+    p Wektor dla dokumentu #1: [1/4, 0, 0, 0, 1/4, 0, 1/4, 0, 0, 1/4, 0]
+    p Wektor dla dokumentu #2: [1/5, 0, 1/5, 0, 1/5, 0, 0, 1/5, 1/5, 0, 0]
+    p Wektor dla dokumentu #3: [2/7, 1/7, 0, 2/7, 0, 1/7, 0, 0, 0, 0, 1/7 ]
+
+    p Cosinus kąta między wektorami V1, V2 określa się wzorem:       V1 ∗ V2     i jest to liczba z V1 ∗ V2
+        przedziału 0 (brak jakiegokolwiek podobieństwa) do 1 (pełne podobieństwo, tj. niekoniecznie dokumenty identyczne, ale np. posiadające ten sam zestaw słów, ale być może w innej kolejności, np. „Ala ma kota” i „kota ma Ala”).
+
+
+    p W zadaniu w ramach testów należy policzyć wektory dla 15 dokumentów z wikipedii, po 5 z kategorii: zoologia, muzyka poważna, informatyka, policzyć cosinusową miarę podobieństwa dla każdej pary, a następnie wypisać 10 par najbardziej do siebie podobnych dokumentów (wraz z wartościami miary podobieństwa) i 10 par najmniej do siebie podobnych dokumentów (również z wartościami miary podobieństwa). Algorytm należy przetestować także na większych tekstach, które używane były na poprzednich laboratoriach.
+
+    if showForm == true
+        form(action="/zadanie3", method="POST", class="form-inline")
+            div(class="form-group")
+                each document, index in documents
+                    div
+                        div(class="form-group")
+                            input(type="text", name="documents", placeholder="", value="#{document}", class="form-control", style="width: 500px")
+                button(type="submit", class="btn btn-default") Szukaj
+    else
+        h4 Legenda
+            table(class="table table-bordered")
+                tr
+                    td(class="danger") brak lub b. małe podbieństwo<br>(0 >= 0.2)
+                    td(class="warning") małe podbieństwo<br>(0.2 >= 0.4)
+                    td(class="active") średnie podbieństwo<br>(0.4 >= 0.6)
+                    td(class="info") duże podbieństwo<br>(0.6 >= 08)
+                    td(class="success") b. duże lub pełne podbieństwo<br>(0.8 >= 1)
+
+            h4 Podobieństwo
+            table(class="table table-bordered")
+                thead
+                    tr
+                        td
+                        each tr, i in similarity
+                            td Dokument #{ i + 1 }
+                each tr, i in similarity
+                    tr
+                        td Dokument #{ i + 1 }
+                            each td, j in tr
+                                td(class="#{td.className}") #{ td.val }
+
+

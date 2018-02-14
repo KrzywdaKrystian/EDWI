@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  h1 Zadanie 2
+  a(href="/") wróć
+  if showForm == true
+    h4 1. Przygotowanie danych
+    p Dane wejściowe dla zaimplementowanych algorytmów należy uzyskać za pomocą programu zaimplementowanego na poprzednich zajęciach. W pliku na stronie są również większe kawałki tekstu. Należy je poddać obróbce przez te same procedury usuwania znaczników, znaków przestankowych, itp.
+    h4 2. Opis zadania
+    p Problem polega na znalezieniu k najczęstszych słów w dokumencie i ich wyświetlenia w kolejności posortowanej, wraz z liczbą wystąpień. Słowa te muszą jednak wystąpić przynajmniej THRESH razy w dokumencie. Jeśli takich słów jest mniej niż k, to wynikowa lista będzie krótsza, w skrajnym przypadku pusta. Przykładowe wartości to k = 10, THRESH = 4.
+    p Algorytm naiwny dla tego problemu wygląda następująco: posortuj wszystkie słowa z dokumentu, usuń duplikaty zastępując każde słowo parą: (słowo, liczba wystąpień), posortuj ponownie, wg liczby wystąpień, zwróć (maksymalnie) k par „z czołówki”.
+    p Zaimplementuj algorytm naiwny, wykorzystując funkcję sortującą z biblioteki standardowej wybranego języka programowania. (1 pkt.)
+    p Następnie należy określić złożoność obliczeniową zaproponowanego algorytmu oraz napisać program tak, aby liczył dokładny czas wykonania funkcji odnajdującej najczęstsze wystąpienia słów w tekście przy czym wczytywanie z pliku i pobieranie danych z www nie jest brane pod uwagę. (2 pkt.)
+    p Ostatnim krokiem jest zaproponowanie i zaimplementowanie algorytmu bardziej optymalnego. Do tego celu można użyć np.: tablic haszujących oraz skorzystać z prawa Heapsa, które w dużym uproszczeniu mówi, że różnych słów w dokumencie w dużym przybliżeniu jest równa ~sqrt(n), gdzie n to długość tekstu wejściowego liczona w słowach. Należy określić złożoność obliczeniową oraz napisać program porównujący czas wykonywania algorytmu naiwnego i algorytmu zaproponowanego przez studenta. (3 pkt.)
+  else
+      p dla n = #{n}, thresh = #{thresh}
+      p Czas operacji: #{dateDiff}
+      p Zlożonośc operacji: n^2+n
+      table(class="table")
+        each word, key in words
+            tr
+                td #{key + 1}.
+                td #{word.word}
+                td #{word.count}
+
+  p #{text}
+  form(action="/zadanie2", method="POST", class="form-inline")
+    div(class="form-group")
+        input(type="number", name="n", placeholder="n", value="#{n}", class="form-control")
+        input(type="number", name="thresh", placeholder="thresh", value="#{thresh}", class="form-control")
+        button(type="submit", class="btn btn-default") Szukaj

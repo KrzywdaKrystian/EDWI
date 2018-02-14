@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 Zadanie 1
+  a(href="/") wróć
+  p #{text}
+  form(action="/parse", method="POST", class="form-inline")
+    div(class="form-group")
+        input(type="text", name="link", placeholder="Adres www", class="form-control")
+        button(type="submit", class="btn btn-default") Parsuj

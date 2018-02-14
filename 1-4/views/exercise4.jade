@@ -1,0 +1,42 @@
+extends layout
+
+block content
+    h1 Zadanie 4
+    a(href="/") wróć
+
+    h4 Opis zadania
+    ul
+        li Zadanie polega na napisaniu programu parsującego hiperłącza z pobranym wcześniej pliku HTML. Wyodrębnione hiperłącza należy zapisać w dwóch plikach. Pierwszy plik ma zawierać odwołania do elementów z tego samego serwera (Takiego samego IP). Może być konieczne odpytanie serwerów DNS o adres IP dla domeny pobieranej witryny. W drugim pliku należy zapisać wszystkie odwołania prowadzące dozewnętrznych źródeł.
+        li Napisać metodę pobierającą rekursywnie podstrony, które zostały zapisane w pierwszym pliku, uzupełniając oba pliki o nowe hiperłącza. Ograniczyć zagłębienie do N podstron.
+
+
+    if showForm === true
+        h4 Parametery
+        form(action="/zadanie4", method="POST")
+            div(class="form-group")
+                label(for="url") Dokument HTML
+                input(type="text", id="url", name="url", placeholder="", value="#{url}", class="form-control", style="width: 500px")
+            div(class="form-group")
+                label(for="id") Zagłębienie do NL
+                input(type="text", id="id", name="n", placeholder="", value="2", class="form-control", style="width: 500px")
+            div(class="form-group")
+                button(type="submit", class="btn btn-default") Parsuj
+    else
+        h4 Wynik
+        div(class="")
+            table(class="table table-bordered")
+                thead
+                    tr
+                        td Nazwa
+                        td Adres www
+                        td Ten sam serwer
+                each el, i in results
+                    tr
+                        td #{ el.text } <br> #{ el.pathname }<br> #{ el.dnsAddress }
+
+                        td #{ el.href }
+
+                        if el.hostAsMain === true
+                            td(class="success") tak
+                        else
+                            td(class="danger") nie

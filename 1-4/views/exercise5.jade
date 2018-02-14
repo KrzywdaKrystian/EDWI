@@ -1,0 +1,19 @@
+extends layout
+
+block content
+    h1 Zadanie 5
+    a(href="/") wróć
+
+    if showForm === true
+        h4 Wyszukiwarka
+
+            form(action="/zadanie5", method="POST")
+                div(class="form-group")
+                    input(type="text", id="query", name="query", placeholder="Wpisz tytul", value="", class="form-control", style="width: 500px")
+                div(class="form-group")
+                    button(type="submit", class="btn btn-default") Szukaj
+
+    else
+        h4 Wynik
+            div #{ result }
+
